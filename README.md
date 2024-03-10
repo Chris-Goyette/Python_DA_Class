@@ -8,7 +8,7 @@ Welcome to my journey through the basics of Python for Data Analysis! This proje
 The primary objective of this project is to document my learning process in using Python to perform data analysis. Instead of focusing on profound insights from the data, this project emphasizes the 'how' over the 'what' of data analysis.
 
 ## Dataset
-The analysis is based on a dataset I found on Kaggle, which includes various basketball statistics from the 2021-22 season.You can find the [link to the data set here](https://www.kaggle.com/datasets/justinas/nba-players-data/data)
+The analysis is based on a dataset I found on Kaggle, which includes various basketball statistics from the 1996 to 2022 season. However, for this analysis I only took a look at the 2021 - 2022 season. You can find the [link to the data set here](https://www.kaggle.com/datasets/justinas/nba-players-data/data)
 
 ## Analysis Overview
 In this notebook, I:
@@ -26,7 +26,7 @@ Through this project, I've gained a foundational understanding of:
 In conclusion, while the notebook may not tell a traditional data story with a beginning, middle, and end, it captures the essence of a learner's path in data science.
 
 ## Reproducibility
-This project is fully reproducible; you should be able run the Jupyter Notebook from start to finish without errors.
+This project is fully reproducible; you should be able run the Jupyter Notebook from start to finish without errors. The repo also has the csv files for analysis. 
 
 ## How to Use
 1. Clone the repository or download the files.
